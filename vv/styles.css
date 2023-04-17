@@ -1,0 +1,159 @@
+header{
+    background-color: darkslategrey;
+    padding: 1%;
+    
+}
+.side{
+    padding: 1%;
+}
+.information{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+
+}
+.button{
+    background-color:beige;
+   
+    
+}
+.Courses{
+    text-decoration: none;
+    color: black;
+    word-spacing: 5px;
+    
+    
+}
+.elearn-image{
+    background-image: url("https://www.elearninfotech.com/img/slider/SEO%20Training.webp");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size:100%;
+    text-align: center;  
+}
+.text{
+    text-align: center;
+    padding-top: 18%;
+    color: white;
+}
+.text-size{
+    text-align: center;
+    padding-top: 1%;
+    color: white;
+}
+.para{
+    text-align: center;
+    padding: 5px;
+}
+.vamsi{
+    background-color: beige;
+    padding: 5%;
+}
+.venkata{
+    padding-bottom: 3%;
+}
+.cou{
+    text-align: center;
+}
+
+.card{
+    margin-bottom: 1rem;
+}
+.card-body{
+    text-align: center;
+    
+}
+.grid-container{
+    padding: 10px;
+}
+.section{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5%;
+}
+.placements{
+    padding: 5%;
+}
+.recent{
+    text-align: center;
+}
+.number{
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/692/467/desktop-wallpaper-solid-plane-colour-background-thumbnail.jpg");
+    padding: 5%;
+    color: white;
+}
+
+
+.campus{
+    padding: 5%;
+}
+.image{
+    width: 75%;
+    border: 1px solid black;   
+}
+.imagee{
+    width: 100%;
+    border: 1px solid black;   
+}
+.imageee{
+    width: 69%;
+    border: 1px solid black;  
+}
+.test{
+    text-align: center;
+    text-align:justify; 
+    
+      
+}
+h6{
+    text-align: right;
+}
+.size{
+    text-align: center;
+}
+.borde{
+    text-decoration: none;
+    color: white;
+    outline: none;
+    
+}
+.under{
+    text-decoration: none;
+    text-align:justify;
+    color: white;
+}
+.py{
+    text-align:justify;
+
+}
+.roww{
+    background-color:rgb(31, 30, 28);
+    color: white;  
+    padding: 5%;
+}
+.size{
+    text-align:justify;
+}
+.class{
+    
+    text-decoration: none;
+    color: white;
+}
+.footer{
+    background-color: dimgray;
+}
+.Elearn{
+    color: white;
+}
+.topnav-right{
+    float: right; 
+}
+.bo{
+    text-align: center;
+}
+.placed{
+    padding-bottom: 3%;
+}
+
+
